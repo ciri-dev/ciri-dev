@@ -12,7 +12,8 @@
 
 <img align="right" width="50%" style="height: 100dvh;" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
-- 👨‍💻 Currently working as a **front-end developer**
+<!-- - 👨‍💻 Currently working as a **front-end developer** -->
+- 📚 Currently learning: React, Node
 - 🤓 Seeking to become a **full-stack developer**
 - 🎓 Graduate of an advanced university technical program in **open-source software development**.
 
